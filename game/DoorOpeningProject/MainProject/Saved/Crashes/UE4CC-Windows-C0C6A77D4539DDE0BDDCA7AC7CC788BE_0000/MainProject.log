@@ -1,0 +1,591 @@
+﻿Log file open, 02/20/18 07:34:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MainProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(558873660) SRandInit(558873660).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177568
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.20-12.34.17:125][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.20-12.34.17:125][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.20-12.34.17:179][  0]LogInit: Computer: HHS-02-212-19
+[2018.02.20-12.34.17:179][  0]LogInit: User: 5921002204
+[2018.02.20-12.34.17:179][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.20-12.34.17:179][  0]LogInit: High frequency timer resolution =3.312786 MHz
+[2018.02.20-12.34.17:180][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.02.20-12.34.17:180][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.20-12.34.17:180][  0]LogMemory: Process Physical Memory: 273.30 MB used, 273.30 MB peak
+[2018.02.20-12.34.17:180][  0]LogMemory: Process Virtual Memory: 271.66 MB used, 271.66 MB peak
+[2018.02.20-12.34.17:180][  0]LogMemory: Physical Memory: 3096.34 MB used,  5046.22 MB free, 8142.56 MB total
+[2018.02.20-12.34.17:180][  0]LogMemory: Virtual Memory: 646.44 MB used,  5046.22 MB free, 134217728.00 MB total
+[2018.02.20-12.34.17:630][  0]LogInit: Using OS detected language (en-US).
+[2018.02.20-12.34.17:630][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.20-12.34.17:717][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.20-12.34.18:293][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.20-12.34.23:660][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.20-12.34.23:682][  0]LogD3D11RHI:    0. 'NVIDIA Quadro 2000' (Feature Level 11_0)
+[2018.02.20-12.34.23:682][  0]LogD3D11RHI:       963/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.20-12.34.23:683][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.20-12.34.23:683][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.20-12.34.23:683][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.20-12.34.23:687][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.20-12.34.23:687][  0]LogD3D11RHI:     GPU DeviceId: 0xdd8 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.20-12.34.23:687][  0]LogWindows: EnumDisplayDevices:
+[2018.02.20-12.34.23:687][  0]LogWindows:    0. 'NVIDIA Quadro 2000' (P:1 D:1)
+[2018.02.20-12.34.23:687][  0]LogWindows:    1. 'NVIDIA Quadro 2000' (P:0 D:0)
+[2018.02.20-12.34.23:688][  0]LogWindows:    2. 'mv video hook driver2' (P:0 D:0)
+[2018.02.20-12.34.23:688][  0]LogWindows:    3. 'DameWare Development Mirror Driver 64-bit' (P:0 D:0)
+[2018.02.20-12.34.23:688][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2018.02.20-12.34.23:688][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro 2000
+[2018.02.20-12.34.23:688][  0]LogD3D11RHI:   Driver Version: 353.62 (internal:10.18.13.5362, unified:353.62)
+[2018.02.20-12.34.23:688][  0]LogD3D11RHI:      Driver Date: 7-22-2015
+[2018.02.20-12.34.23:688][  0]LogRHI: Texture pool is 674 MB (70% of 963 MB)
+[2018.02.20-12.34.23:706][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.02.20-12.34.23:706][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2018.02.20-12.34.23:706][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.20-12.34.23:729][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.20-12.34.23:730][  0]LogShaderCompilers: Guid format shader working directory is -55 characters bigger than the processId version (../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Intermediate/Shaders/WorkingDirectory/8628/).
+[2018.02.20-12.34.23:731][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/5921002204/AppData/Local/Temp/UnrealShaderWorkingDir/970EEFB1414478583060098A1E6323E8/'.
+[2018.02.20-12.34.23:731][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.20-12.34.26:248][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.20-12.34.26:306][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.20-12.34.26:363][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.20-12.34.26:434][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.20-12.34.26:597][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.20-12.34.26:697][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.20-12.34.26:755][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.20-12.34.26:813][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.20-12.34.26:871][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.20-12.34.26:927][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.20-12.34.26:983][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.20-12.34.27:039][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.20-12.34.27:096][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.20-12.34.27:167][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.20-12.34.27:283][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.20-12.34.27:283][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.20-12.34.27:366][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.20-12.34.27:412][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.20-12.34.27:525][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.20-12.34.27:556][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.20-12.34.27:614][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.20-12.34.27:672][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.20-12.34.27:730][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.20-12.34.27:791][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.20-12.34.27:792][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.20-12.34.28:525][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.20-12.34.30:261][  0]LogDerivedDataCache: Loaded boot cache 1.74s 78MB C:/Users/5921002204/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.20-12.34.30:261][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/5921002204/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.20-12.34.30:261][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.20-12.34.30:261][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.20-12.34.30:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.20-12.34.30:262][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.20-12.34.30:355][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.20-12.34.30:392][  0]LogDerivedDataCache: Using Local data cache path C:/Users/5921002204/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.20-12.34.30:414][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.20-12.34.30:414][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.20-12.34.30:501][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.20-12.34.30:502][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.20-12.34.32:411][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.20-12.34.33:157][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.20-12.34.33:225][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.20-12.34.33:225][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.20-12.34.33:225][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.20-12.34.33:225][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.20-12.34.33:225][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.20-12.34.33:279][  0]LogNetVersion: MainProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 877938324)
+[2018.02.20-12.34.33:685][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.02.20-12.34.35:111][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.074827 seconds
+[2018.02.20-12.34.35:116][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.20-12.34.35:116][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.20-12.34.35:116][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.20-12.34.35:187][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.20-12.35.02:881][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.20-12.35.02:927][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.20-12.35.04:180][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.20-12.35.05:158][  0]SourceControl: Source control is disabled
+[2018.02.20-12.35.05:158][  0]SourceControl: Source control is disabled
+[2018.02.20-12.35.05:254][  0]SourceControl: Source control is disabled
+[2018.02.20-12.35.05:346][  0]SourceControl: Source control is disabled
+[2018.02.20-12.35.06:558][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.20-12.35.06:889][  0]LogOcInput: OculusInput pre-init called
+[2018.02.20-12.35.07:308][  0]LogEngine: Initializing Engine...
+[2018.02.20-12.35.07:310][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.20-12.35.07:928][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.20-12.35.07:928][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.20-12.35.08:076][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.20-12.35.08:181][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.20-12.35.08:299][  0]LogInit: FAudioDevice initialized.
+[2018.02.20-12.35.08:470][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/5921002204/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.20-12.35.08:482][  0]LogInit: Texture streaming: Enabled
+[2018.02.20-12.35.08:646][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.20-12.35.08:901][  0]LogInit: Transaction tracking system initialized
+[2018.02.20-12.35.09:300][  0]BlueprintLog: New page: Editor Load
+[2018.02.20-12.35.10:514][  0]LocalizationService: Localization service is disabled
+[2018.02.20-12.35.11:737][  0]LogConsoleResponse: Display: 
+[2018.02.20-12.35.14:641][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.20-12.35.14:641][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.20-12.35.14:642][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.20-12.35.14:729][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/' took 0.02s
+[2018.02.20-12.35.18:062][  0]SourceControl: Source control is disabled
+[2018.02.20-12.35.18:063][  0]LightingResults: New page: Lighting Build
+[2018.02.20-12.35.18:109][  0]MapCheck: New page: Map Check
+[2018.02.20-12.35.18:109][  0]LightingResults: New page: Lighting Build
+[2018.02.20-12.35.21:942][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.20-12.35.21:970][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.20-12.35.21:982][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.20-12.35.22:041][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.504ms to complete.
+[2018.02.20-12.35.22:041][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.978
+[2018.02.20-12.35.22:469][  0]LogCollectionManager: Loaded 0 collections in 0.002108 seconds
+[2018.02.20-12.35.22:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Collections/' took 0.01s
+[2018.02.20-12.35.22:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Developers/5921002204/Collections/' took 0.01s
+[2018.02.20-12.35.22:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Collections/' took 0.01s
+[2018.02.20-12.35.22:555][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.20-12.35.22:565][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2363 classes and 519 folders.
+[2018.02.20-12.35.22:660][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.20-12.35.26:325][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.20-12.35.26:376][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.20-12.35.26:431][  0]LogSlate: Took 0.003608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.20-12.35.26:437][  0]LogSlate: Took 0.003533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.20-12.35.26:463][  0]LogSlate: Took 0.021554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.20-12.35.27:156][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.20-12.35.27:360][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.20-12.35.27:360][  0]LogLoad: (Engine Initialization) Total time: 76.12 seconds
+[2018.02.20-12.35.27:360][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.20-12.35.27:360][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.20-12.35.27:360][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.20-12.35.27:719][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.20-12.35.27:918][  0]LogSlate: Took 0.004375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-12.35.28:049][  1]LogAssetRegistry: Asset discovery search completed in 54.3845 seconds
+[2018.02.20-12.35.28:052][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.20-12.35.28:052][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000174 seconds (updated 0 objects)
+[2018.02.20-12.37.43:555][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (room1_pasted__polySurface7)
+[2018.02.20-12.37.45:217][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (room1_pasted__polySurface7)
+[2018.02.20-12.37.54:662][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (room1_pCube5)
+[2018.02.20-12.37.54:991][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (room1_pasted__polySurface7)
+[2018.02.20-12.37.57:250][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (room1_pasted__polySurface7)
+[2018.02.20-12.37.57:594][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (room1_pasted__polySurface7)
+[2018.02.20-12.37.58:100][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (room1_pasted__polySurface7)
+[2018.02.20-12.38.25:027][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (room1_pasted__polySurface7)
+[2018.02.20-12.38.25:375][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (room1_pasted__polySurface7)
+[2018.02.20-12.38.46:545][227]LogActorFactory: Actor Factory created room1_pasted__polySurface4
+[2018.02.20-12.38.47:349][260]LogActorFactory: Actor Factory created room1_pasted__polySurface4
+[2018.02.20-12.39.24:373][938]Cmd: DELETE
+[2018.02.20-12.39.24:373][938]Cmd: ACTOR DELETE
+[2018.02.20-12.39.24:629][938]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.20-12.39.24:639][938]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2018.02.20-12.39.26:287][985]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-12.39.26:897][985]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.20-12.39.33:135][121]LogActorFactory: Actor Factory created room1_pasted__polySurface7
+[2018.02.20-12.39.33:612][143]LogActorFactory: Actor Factory created room1_pasted__polySurface7
+[2018.02.20-12.39.46:116][713]Cmd: DELETE
+[2018.02.20-12.39.46:116][713]Cmd: ACTOR DELETE
+[2018.02.20-12.39.46:117][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.20-12.39.46:138][713]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.02.20-12.41.22:181][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (room1_pasted__polySurface7)
+[2018.02.20-12.41.54:694][620]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (room1_pasted__polySurface7)
+[2018.02.20-12.42.03:102][106]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-12.45.28:500][ 39]LogSavePackage: Save=449.77ms
+[2018.02.20-12.45.28:500][ 39]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/FirstPersonExampleMap_Auto1DAE723C04AFFAEE121C3EF93030E745A.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.02.20-12.45.28:501][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.02.20-12.45.28:509][ 39]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.588
+[2018.02.20-12.45.28:509][ 39]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.588
+[2018.02.20-12.55.29:314][554]LogSavePackage: Save=151.47ms
+[2018.02.20-12.55.29:314][554]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/FirstPersonExampleMap_Auto2AE105C33401B502F83F356BD58108565.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.02.20-12.55.29:321][554]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
+[2018.02.20-12.55.29:326][554]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.187
+[2018.02.20-12.55.29:326][554]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.187
+[2018.02.20-13.15.52:126][750]AssetReimport: New page: Outstanding source content changes 3:15:52 AM
+[2018.02.20-13.15.52:187][751]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx)
+[2018.02.20-13.15.52:302][751]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.20-13.15.52:302][751]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.20-13.15.52:302][751]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.20-13.15.52:302][751]LogFbx: ItemName: NodeAttribute, ItemCount : 16
+[2018.02.20-13.15.52:302][751]LogFbx: ItemName: Model, ItemCount : 20
+[2018.02.20-13.15.52:302][751]LogFbx: ItemName: Geometry, ItemCount : 4
+[2018.02.20-13.15.52:302][751]LogFbx: ItemName: Material, ItemCount : 3
+[2018.02.20-13.15.52:302][751]LogFbx: ItemName: Texture, ItemCount : 2
+[2018.02.20-13.15.52:302][751]LogFbx: ItemName: Video, ItemCount : 1
+[2018.02.20-13.15.52:319][751]LogFbx: Loading FBX Scene from C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx
+[2018.02.20-13.15.52:333][751]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.20-13.16.02:194][751]LogFbx: Loading FBX Scene from C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx
+[2018.02.20-13.16.02:208][751]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.20-13.16.02:221][751]LogLinker: Can't find file '/Game/Import/lambert2'
+[2018.02.20-13.16.02:221][751]LogLinker: Can't find file '/Game/Import/lambert2'
+[2018.02.20-13.16.02:269][751]LogLinker: Can't find file '/Game/Import/'
+[2018.02.20-13.16.02:269][751]LogLinker: Can't find file '/Game/Import/'
+[2018.02.20-13.16.02:307][751]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.02.20-13.16.02:938][751]LogStaticMesh: Building static mesh Billboard_pasted__pasted__pCube1...
+[2018.02.20-13.16.03:384][751]LogStaticMesh: Built static mesh [0.45s] /Game/Import/Billboard_pasted__pasted__pCube1.Billboard_pasted__pasted__pCube1
+[2018.02.20-13.16.03:835][751]LogStaticMesh: Building static mesh Billboard_pasted__pasted__pasted__pCube1...
+[2018.02.20-13.16.03:836][751]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Billboard_pasted__pasted__pasted__pCube1.Billboard_pasted__pasted__pasted__pCube1
+[2018.02.20-13.16.03:845][751]LogStaticMesh: Building static mesh Billboard_pasted__pasted__pasted__pasted__pCube1...
+[2018.02.20-13.16.03:846][751]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Billboard_pasted__pasted__pasted__pasted__pCube1.Billboard_pasted__pasted__pasted__pasted__pCube1
+[2018.02.20-13.16.03:878][751]LogLinker: Can't find file '/Game/Import/lambert3'
+[2018.02.20-13.16.03:878][751]LogLinker: Can't find file '/Game/Import/lambert3'
+[2018.02.20-13.16.03:882][751]LogLinker: Can't find file '/Game/Import/grassbackground'
+[2018.02.20-13.16.03:882][751]LogLinker: Can't find file '/Game/Import/grassbackground'
+[2018.02.20-13.16.06:807][751]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2018.02.20-13.16.06:833][751]LogStaticMesh: Building static mesh Billboard_pasted__pasted__pasted__pCube1_1...
+[2018.02.20-13.16.06:834][751]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Billboard_pasted__pasted__pasted__pCube1_1.Billboard_pasted__pasted__pasted__pCube1_1
+[2018.02.20-13.16.07:044][752]LogSavePackage: Save=6.58ms
+[2018.02.20-13.16.07:045][752]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/BillboardBBB26FCC402E24061F614E959841008D.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.uasset'
+[2018.02.20-13.16.07:048][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.uasset
+[2018.02.20-13.16.10:108][837]AssetReimport: Importing new asset /Game/Import/Billboard.
+[2018.02.20-13.16.14:038][927]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.02.20-13.16.21:404][175]LogActorFactory: Actor Factory created Billboard_pasted__pasted__pasted__pCube1_1
+[2018.02.20-13.16.21:859][195]LogActorFactory: Actor Factory created Billboard_pasted__pasted__pasted__pCube1_1
+[2018.02.20-13.16.27:706][444]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.20-13.16.30:532][546]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.02.20-13.16.31:218][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Billboard_pasted__pasted__pasted__pCube1_1)
+[2018.02.20-13.16.32:420][622]Cmd: DELETE
+[2018.02.20-13.16.32:420][622]Cmd: ACTOR DELETE
+[2018.02.20-13.16.32:423][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.20-13.16.32:442][622]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.02.20-13.17.03:863][784]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.20-13.17.29:565][883]LogSavePackage: Save=162.00ms
+[2018.02.20-13.17.29:565][883]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/FirstPersonExampleMap_Auto3D239F49243C9290E7E699382347630EC.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2018.02.20-13.17.29:567][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap
+[2018.02.20-13.17.29:572][883]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.192
+[2018.02.20-13.17.29:572][883]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.192
+[2018.02.20-13.17.29:581][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Billboard_pasted__pasted__pCube1] ([1] browsable assets)...
+[2018.02.20-13.17.29:626][883]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Billboard_pasted__pasted__pCube1.Billboard_pasted__pasted__pCube1]
+[2018.02.20-13.17.29:626][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Billboard_pasted__pasted__pCube1]
+[2018.02.20-13.17.29:644][883]LogSavePackage: Save=15.36ms
+[2018.02.20-13.17.29:644][883]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Billboard_pasted__pasted__pCube1F2C2530B4B3EC58918095AB4F4C38B2F.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Billboard_pasted__pasted__pCube1_Auto3.uasset'
+[2018.02.20-13.17.29:646][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Billboard_pasted__pasted__pCube1_Auto3.uasset
+[2018.02.20-13.17.29:648][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/lambert2] ([1] browsable assets)...
+[2018.02.20-13.17.29:670][883]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Import/lambert2.lambert2]
+[2018.02.20-13.17.29:670][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/lambert2]
+[2018.02.20-13.17.29:754][883]LogSavePackage: Save=81.35ms
+[2018.02.20-13.17.29:754][883]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/lambert2_Auto365C44E774459167ED2CA96B23CF80975.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/lambert2_Auto3.uasset'
+[2018.02.20-13.17.29:756][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/lambert2_Auto3.uasset
+[2018.02.20-13.17.29:757][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Billboard_pasted__pasted__pasted__pCube1] ([1] browsable assets)...
+[2018.02.20-13.17.29:780][883]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Billboard_pasted__pasted__pasted__pCube1.Billboard_pasted__pasted__pasted__pCube1]
+[2018.02.20-13.17.29:780][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Billboard_pasted__pasted__pasted__pCube1]
+[2018.02.20-13.17.29:797][883]LogSavePackage: Save=13.96ms
+[2018.02.20-13.17.29:797][883]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Billboard_pasted__pasted__pastedB6FD108E459BC3597213F5AF09830479.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Billboard_pasted__pasted__pasted__pCube1_Auto3.uasset'
+[2018.02.20-13.17.29:798][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Billboard_pasted__pasted__pasted__pCube1_Auto3.uasset
+[2018.02.20-13.17.29:799][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Billboard_pasted__pasted__pasted__pasted__pCube1] ([1] browsable assets)...
+[2018.02.20-13.17.29:821][883]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Billboard_pasted__pasted__pasted__pasted__pCube1.Billboard_pasted__pasted__pasted__pasted__pCube1]
+[2018.02.20-13.17.29:821][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Billboard_pasted__pasted__pasted__pasted__pCube1]
+[2018.02.20-13.17.29:837][883]LogSavePackage: Save=13.86ms
+[2018.02.20-13.17.29:837][883]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Billboard_pasted__pasted__pasted8573998E4D64B0AFCB2426B87132CDC2.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Billboard_pasted__pasted__pasted__pasted__pCube1_Auto3.uasset'
+[2018.02.20-13.17.29:838][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Billboard_pasted__pasted__pasted__pasted__pCube1_Auto3.uasset
+[2018.02.20-13.17.29:839][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Billboard_pasted__pasted__pasted__pCube1_1] ([1] browsable assets)...
+[2018.02.20-13.17.29:860][883]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Billboard_pasted__pasted__pasted__pCube1_1.Billboard_pasted__pasted__pasted__pCube1_1]
+[2018.02.20-13.17.29:860][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Billboard_pasted__pasted__pasted__pCube1_1]
+[2018.02.20-13.17.29:877][883]LogSavePackage: Save=14.88ms
+[2018.02.20-13.17.29:878][883]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Billboard_pasted__pasted__pasted628F274948D23B3D541818ACC5BAD57A.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Billboard_pasted__pasted__pasted__pCube1_1_Auto3.uasset'
+[2018.02.20-13.17.29:879][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Billboard_pasted__pasted__pasted__pCube1_1_Auto3.uasset
+[2018.02.20-13.17.29:880][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/lambert3] ([1] browsable assets)...
+[2018.02.20-13.17.29:901][883]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Import/lambert3.lambert3]
+[2018.02.20-13.17.29:902][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/lambert3]
+[2018.02.20-13.17.29:920][883]LogSavePackage: Save=16.97ms
+[2018.02.20-13.17.29:921][883]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/lambert3_Auto3761FD7DC4FC6D7BFAB62F291954588A8.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/lambert3_Auto3.uasset'
+[2018.02.20-13.17.29:923][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/lambert3_Auto3.uasset
+[2018.02.20-13.17.29:923][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/grassbackground] ([1] browsable assets)...
+[2018.02.20-13.17.29:933][883]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Import/grassbackground.grassbackground]
+[2018.02.20-13.17.29:933][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/grassbackground]
+[2018.02.20-13.17.29:952][883]LogSavePackage: Save=16.13ms
+[2018.02.20-13.17.29:952][883]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/grassbackground_Auto38C5BBB5343F2C4BC84928AAEEC06830B.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/grassbackground_Auto3.uasset'
+[2018.02.20-13.17.29:953][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/grassbackground_Auto3.uasset
+[2018.02.20-13.17.29:953][883]LogFileHelpers: Auto-saving content packages took 0.380
+[2018.02.20-13.27.46:490][961]AssetReimport: New page: Outstanding source content changes 3:27:46 AM
+[2018.02.20-13.27.46:492][961]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Import/Import/Billboard.fbx)
+[2018.02.20-13.27.46:496][961]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.20-13.27.46:496][961]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.20-13.27.46:496][961]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.20-13.27.46:496][961]LogFbx: ItemName: NodeAttribute, ItemCount : 33
+[2018.02.20-13.27.46:496][961]LogFbx: ItemName: Model, ItemCount : 34
+[2018.02.20-13.27.46:496][961]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.02.20-13.27.46:496][961]LogFbx: ItemName: Material, ItemCount : 2
+[2018.02.20-13.27.46:496][961]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.02.20-13.27.46:496][961]LogFbx: ItemName: Video, ItemCount : 1
+[2018.02.20-13.27.46:501][961]LogFbx: Loading FBX Scene from C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Import/Import/Billboard.fbx
+[2018.02.20-13.27.46:530][961]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.20-13.27.54:771][961]LogFbx: Loading FBX Scene from C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Import/Import/Billboard.fbx
+[2018.02.20-13.27.54:786][961]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.20-13.27.54:787][961]LogLinker: Can't find file '/Game/Import/Import/Import/lambert1'
+[2018.02.20-13.27.54:788][961]LogLinker: Can't find file '/Game/Import/Import/Import/lambert1'
+[2018.02.20-13.27.54:793][961]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.02.20-13.27.54:814][961]LogLinker: Can't find file '/Game/Import/Import/Import/lambert6'
+[2018.02.20-13.27.54:814][961]LogLinker: Can't find file '/Game/Import/Import/Import/lambert6'
+[2018.02.20-13.27.54:816][961]LogLinker: Can't find file '/Game/Import/Import/Import/grassbackground'
+[2018.02.20-13.27.54:816][961]LogLinker: Can't find file '/Game/Import/Import/Import/grassbackground'
+[2018.02.20-13.27.57:441][961]LogMaterial: Missing cached shader map for material lambert6, compiling. 
+[2018.02.20-13.27.57:466][961]LogStaticMesh: Building static mesh Billboard...
+[2018.02.20-13.27.57:469][961]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Import/Billboard.Billboard
+[2018.02.20-13.27.57:659][962]LogSavePackage: Save=32.76ms
+[2018.02.20-13.27.57:659][962]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Billboard3E3EF2904B4F775D458795A7337315B0.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Import/Import/Billboard.uasset'
+[2018.02.20-13.27.57:680][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Import/Import/Billboard.uasset
+[2018.02.20-13.28.00:689][ 58]AssetReimport: Importing new asset /Game/Import/Import/Import/Billboard.
+[2018.02.20-13.28.03:758][181]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.20-13.28.11:028][439]LogActorFactory: Actor Factory created Billboard
+[2018.02.20-13.28.11:704][467]LogActorFactory: Actor Factory created Billboard
+[2018.02.20-13.28.15:620][639]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.20-13.28.51:146][ 57]LogSavePackage: Save=137.65ms
+[2018.02.20-13.28.51:146][ 57]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/FirstPersonExampleMap_Auto4AABE519A4036B23E2E120F8A154B52AD.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.02.20-13.28.51:147][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2018.02.20-13.28.51:150][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.167
+[2018.02.20-13.28.51:150][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.167
+[2018.02.20-13.28.51:152][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Import/lambert1] ([1] browsable assets)...
+[2018.02.20-13.28.51:190][ 57]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Import/Import/Import/lambert1.lambert1]
+[2018.02.20-13.28.51:190][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Import/lambert1]
+[2018.02.20-13.28.51:208][ 57]LogSavePackage: Save=15.91ms
+[2018.02.20-13.28.51:208][ 57]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/lambert1_Auto4EB263094493BE291EF8B7F904FF2C2D4.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Import/Import/lambert1_Auto4.uasset'
+[2018.02.20-13.28.51:209][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Import/Import/lambert1_Auto4.uasset
+[2018.02.20-13.28.51:210][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Import/lambert6] ([1] browsable assets)...
+[2018.02.20-13.28.51:247][ 57]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Import/Import/Import/lambert6.lambert6]
+[2018.02.20-13.28.51:247][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Import/lambert6]
+[2018.02.20-13.28.51:273][ 57]LogSavePackage: Save=23.95ms
+[2018.02.20-13.28.51:273][ 57]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/lambert6_Auto496B6397B48005F302714E2A805A7AEFA.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Import/Import/lambert6_Auto4.uasset'
+[2018.02.20-13.28.51:276][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Import/Import/lambert6_Auto4.uasset
+[2018.02.20-13.28.51:277][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Import/grassbackground] ([1] browsable assets)...
+[2018.02.20-13.28.51:282][ 57]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Import/Import/Import/grassbackground.grassbackground]
+[2018.02.20-13.28.51:282][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Import/grassbackground]
+[2018.02.20-13.28.51:304][ 57]LogSavePackage: Save=18.46ms
+[2018.02.20-13.28.51:304][ 57]LogSavePackage: Moving '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/grassbackground_Auto4E998D5BE4DD986B577D7C7A83DCAF7D4.tmp' to '../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Import/Import/grassbackground_Auto4.uasset'
+[2018.02.20-13.28.51:306][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Saved/Autosaves/Game/Import/Import/Import/grassbackground_Auto4.uasset
+[2018.02.20-13.28.51:306][ 57]LogFileHelpers: Auto-saving content packages took 0.154
+[2018.02.20-13.29.56:678][254]AssetReimport: New page: Outstanding source content changes 3:29:56 AM
+[2018.02.20-13.29.56:763][254]LogEditorFactories: Performing atomic reimport of [C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx]
+[2018.02.20-13.29.56:772][254]LogFbx: Loading FBX Scene from C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx
+[2018.02.20-13.29.56:785][254]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.20-13.29.56:791][254]LogStaticMesh: Building static mesh Billboard_pasted__pasted__pCube1...
+[2018.02.20-13.29.56:793][254]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Billboard_pasted__pasted__pCube1.Billboard_pasted__pasted__pCube1
+[2018.02.20-13.29.56:825][254]LogEditorFactories: -- imported successfully
+[2018.02.20-13.29.56:833][254]LogEditorFactories: Performing atomic reimport of [C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx]
+[2018.02.20-13.29.56:842][254]LogFbx: Loading FBX Scene from C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx
+[2018.02.20-13.29.56:855][254]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.20-13.29.56:857][254]LogStaticMesh: Building static mesh Billboard_pasted__pasted__pasted__pCube1...
+[2018.02.20-13.29.56:859][254]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Billboard_pasted__pasted__pasted__pCube1.Billboard_pasted__pasted__pasted__pCube1
+[2018.02.20-13.29.56:863][254]LogEditorFactories: -- imported successfully
+[2018.02.20-13.29.56:868][254]LogEditorFactories: Performing atomic reimport of [C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx]
+[2018.02.20-13.29.56:878][254]LogFbx: Loading FBX Scene from C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx
+[2018.02.20-13.29.56:890][254]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.20-13.29.56:892][254]LogStaticMesh: Building static mesh Billboard_pasted__pasted__pasted__pasted__pCube1...
+[2018.02.20-13.29.56:895][254]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Billboard_pasted__pasted__pasted__pasted__pCube1.Billboard_pasted__pasted__pasted__pasted__pCube1
+[2018.02.20-13.29.56:899][254]LogEditorFactories: -- imported successfully
+[2018.02.20-13.29.56:904][254]LogEditorFactories: Performing atomic reimport of [C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx]
+[2018.02.20-13.29.56:913][254]LogFbx: Loading FBX Scene from C:/Users/5921002204/Documents/GitHub/DoorOpeningProject/game/DoorOpeningProject/MainProject/Content/Import/Billboard.fbx
+[2018.02.20-13.29.56:926][254]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.20-13.29.56:928][254]LogStaticMesh: Building static mesh Billboard_pasted__pasted__pasted__pCube1_1...
+[2018.02.20-13.29.56:930][254]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Billboard_pasted__pasted__pasted__pCube1_1.Billboard_pasted__pasted__pasted__pCube1_1
+[2018.02.20-13.29.56:934][254]LogEditorFactories: -- imported successfully
+[2018.02.20-13.29.57:931][255]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.972 s
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: 
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: Ensure condition failed: ExpectedWorkThisFrame <= 1.01f * TotalAmountOfWork - CompletedWork [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Private\Misc\SlowTask.cpp] [Line: 86]
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: Work overflow in slow task. Please revise call-site to account for entire progress range.
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: Stack: 
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x00000000813A2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000008114123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000008115B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000008121B95E UE4Editor-Core.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000006CFB5DDB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000006CF52129 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000006CF25ACF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000006CF693A6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000006CF53971 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000006CFD4FD8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000006CFD6BB0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000006D2B7AF5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000006D2B58C6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000006DB64AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000004F3F5A26 UE4Editor.exe!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000004F405430 UE4Editor.exe!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000004F4054AA UE4Editor.exe!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000004F412379 UE4Editor.exe!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x000000004F413D57 UE4Editor.exe!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x00000000A8142774 KERNEL32.DLL!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: [Callstack] 0x00000000AAA70D51 ntdll.dll!UnknownFunction []
+[2018.02.20-13.29.57:944][255]LogOutputDevice: Error: 
+[2018.02.20-13.29.57:955][255]LogStats:                SubmitErrorReport -  0.000 s
