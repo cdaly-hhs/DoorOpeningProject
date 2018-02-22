@@ -1,4 +1,15 @@
 
+<<<<<<< HEAD
 *.ini
 *.ini
 *.log
+=======
+*.log
+*.log
+*.log
+*.runtime-xml
+*.ini
+*.log
+*.ini
+*.bin
+>>>>>>> 94ee7bc402e00613cc245a1a64cac11a129164a3

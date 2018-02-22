@@ -4,4 +4,7 @@
 *.ma filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.mb filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.mel filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 94ee7bc402e00613cc245a1a64cac11a129164a3
